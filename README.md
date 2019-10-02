@@ -3,4 +3,4 @@ Statistics for Epidemiology and Population Health (STEPH) - Formative assignment
 
 London School of Hygiene & Tropical Medicine (LSHTM) module
 
-Analysis carried out using STATA
+Statisical analysis was carried out using STATA
